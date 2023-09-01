@@ -1,5 +1,5 @@
-def inc(x):
-    return x + 1
+import pytest
+import fizzbuzz
 
-def test_answer():
-    assert inc(3) == 4
+def test_fizzbuzz():
+    assert fizzbuzz.fizzbuzz(4) == "4Fizz21"
