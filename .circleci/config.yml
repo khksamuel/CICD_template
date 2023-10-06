@@ -57,7 +57,7 @@ jobs:
           command: ./main
           background: true
       - run:
-          name: Validate if the service is working or not.
+          name: Validate if the service is working
           command: |
             sleep 5
             curl http://localhost:8080/health-check
@@ -67,7 +67,7 @@ workflows:
   workflow:
     jobs:
       - build:
-          context: ikata_api_dev
+          context: dashboard
           filters:
             branches:
               only:
