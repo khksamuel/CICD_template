@@ -68,7 +68,3 @@ workflows:
     jobs:
       - build:
           context: dashboard
-          filters:
-            branches:
-              only:
-                - develop
