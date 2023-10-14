@@ -1,1 +1,34 @@
-https://medium.com/readytowork-org/elevating-code-quality-ultimate-guide-to-integrate-sonarqube-with-circleci-for-effective-code-2cd9fcedb9ee
+curl --request GET  --url https://circleci.com/api/v2/project/gh/CircleCI-Public/api-preview-docs/123/tests  --header "Circle-Token: CCIPAT_C16GBDGaEiewuarLDFhNX8_ca88bd96226e2a9cfd2e5b29983782d9e64c296f"
+
+Invoke-WebRequest -Method GET -Uri "https://circleci.com/api/v2/insights/gh/khksamuel/CICD_template/workflows/workflow/jobs/build" -Headers @{"Circle-Token" = "CCIPAT_C16GBDGaEiewuarLDFhNX8_ca88bd96226e2a9cfd2e5b29983782d9e64c296f"}
+
+how about grabbing the statistics with circleci api and display them with grafana
+
+Copy
+Searching for: how to grab CircleCI statistics with Grafana
+
+Searching for: how to grab CircleCI statistics with Grafana
+
+Searching for: how to grab CircleCI statistics with CircleCI API and display them with Grafana
+
+Searching for: how to grab CircleCI statistics with CircleCI API and display them with Grafana
+
+Generating answers for you…
+
+Generating answers for you…
+
+To grab statistics from CircleCI with the CircleCI API and display them with Grafana, you can follow these steps12345:
+
+Generate a CircleCI API Token: You need to generate a CircleCI API token and then create an environment variable on your CircleCI project with the name ‘CIRCLE_TOKEN’ and the token as its value5.
+
+Use the CircleCI API: You can use the CircleCI API to get raw data for your builds3. For example, you can use the Job Artifact Endpoint to get test result data3. Here is an example of how to use this endpoint:
+
+curl --request GET  --url https://circleci.com/api/v2/project/gh/CircleCI-Public/api-preview-docs/123/tests  --header "Circle-Token: $CIRCLE_TOKEN"
+
+Store the Data: You’ll need to store the data you get from the CircleCI API in a database that Grafana can access67. This could be a time-series database like Prometheus or any other database supported by Grafana67.
+
+Set Up Grafana: Install Grafana and add your database as a data source67.
+
+Create a Dashboard in Grafana: You can create a new dashboard in Grafana and add panels to visualize the data you’ve collected from CircleCI67.
+
+Please note that this is a high-level overview and the exact steps can vary depending on your specific setup and requirements67.
