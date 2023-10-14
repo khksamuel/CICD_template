@@ -24,20 +24,21 @@ db.connect((err) => {
     }
 });
 
-let alerts_insert_sql = `INSERT INTO alerts(id, created_at, url, html_url, state, dismissed_by, dismissed_at, dismissed_reason, rule, tool, instances)
-VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10 , $11)
+let alerts_insert_sql = `INSERT INTO alerts(id, created_at, updated_at, url, html_url, state, fixed_by, dismissed_by, dismissed_at, dismissed_reason, rule, tool)
+VALUES ($1, $2, $3, $4, $5, $6, $7, $8, $9, $10, $11, $12)
 ON CONFLICT (id)
 DO UPDATE SET
     created_at = excluded.created_at,
+    updated_at = excluded.updated_at,
     url = excluded.url,
     html_url = excluded.html_url,
     state = excluded.state,
+    fixed_by = excluded.fixed_by,
     dismissed_by = excluded.dismissed_by,
     dismissed_at = excluded.dismissed_at,
     dismissed_reason = excluded.dismissed_reason,
     rule = excluded.rule,
-    tool = excluded.tool,
-    instances = excluded.instances;
+    tool = excluded.tool;
 `;
 
 let insights_insert_sql = `INSERT INTO insights(id, branch, duration, created_at, stopped_at, credits_used, status, is_approval)
@@ -56,15 +57,16 @@ DO UPDATE SET
 let alert_create_sql = `CREATE TABLE IF NOT EXISTS alerts (
     id VARCHAR(255) PRIMARY KEY,
     created_at TIMESTAMP,
+    updated_at TIMESTAMP,
     url VARCHAR(255),
     html_url VARCHAR(255),
     state VARCHAR(255),
-    dismissed_by VARCHAR(255),
-    dismissed_at TIMESTAMP,
-    dismissed_reason VARCHAR(255),
+    fixed_by TIMESTAMP NULL,
+    dismissed_by VARCHAR(255) NULL,
+    dismissed_at TIMESTAMP NULL,
+    dismissed_reason VARCHAR(255) NULL,
     rule VARCHAR(255),
-    tool VARCHAR(255),
-    instances VARCHAR(255));`;
+    tool VARCHAR(255))`;
 
 let insight_create_sql = `CREATE TABLE IF NOT EXISTS insights (
     id VARCHAR(255) PRIMARY KEY,
@@ -88,14 +90,13 @@ db.query(insight_create_sql, function (err, result) {
 app.get('/', (req, res) => {
     // navigate to the grafana dashboard located at http://localhost:3000 after 5 seconds
     setTimeout(() => {
-        res.redirect('http://localhost:3000/d/5Jm0y9yMk/circleci-dashboard?orgId=1&refresh=5s');
+        res.redirect('http://localhost:3000/d/d2a44ed8-32be-4d9c-8451-159816745e09/build-metrics?orgId=1');
     }, 5 * 1000);
 });
 
 app.get('/insights', async (req, res) => {
     try {
         console.log('Fetching insights...');
-        // `https://circleci.com/api/v2/insights/${vcs}/${circleci_username}/${project_name}/workflows/`
         let vcs = configs.vcs;
         let circleci_username = configs.circleci_username;
         let project_name = configs.project_name;
@@ -139,18 +140,33 @@ app.get('/alerts', async (req, res) => {
             }
         });
 
-        let alerts = response.data.alerts;
+        let alerts = response.data;
         if ((alerts == null) || (alerts.length == 0)) {
             console.log('No alerts found.');
             return;
         }
 
         for (let alert of alerts) {
-            db.query(alerts_insert_sql, [alert.id, alert.created_at, alert.url, alert.html_url, alert.state, alert.dismissed_by, alert.dismissed_at, alert.dismissed_reason, alert.rule.name, alert.tool.name, alert.instances[0].location.path], function (err, result) {
+            if (alert.dismissed_at == undefined) {
+                alert.dismissed_at = null;
+            }
+            if (alert.dismissed_by == undefined) {
+                alert.dismissed_by = null;
+            }
+            if (alert.dismissed_reason == undefined) {
+                alert.dismissed_reason = null;
+            }
+            if (alert.dismissed_comment == undefined) {
+                alert.fixed_by = null;
+            }
+            // insert into database according to the schema
+            db.query(alerts_insert_sql, [alert.number, alert.created_at, alert.updated_at, alert.url, alert.html_url, alert.state, alert.fixed_by, alert.dismissed_by, alert.dismissed_at, alert.dismissed_reason, alert.rule, alert.tool], function (err, result) {
                 if (err) throw err;
                 console.log("1 alert record inserted");
             });
         }
+        
+        
     } catch (error) {
         console.error(error);
         res.status(500).send('An error occurred while retrieving alerts.');
