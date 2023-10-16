@@ -1,15 +1,19 @@
 # CICD_template
-**Dependencies**
-grafana
-postgresql
-npm
+**Dependencies**:  
 
-**How to Install**
-Grafana:
-Grafana can be installed from here: https://grafana.com/docs/grafana/latest/setup-grafana/installation/windows/
+grafana,
+postgresql,
+npm,
 
-Postgresql:
-Postgresql can be installed from here: https://www.postgresql.org/download/
+**How to Install**  
 
-npm:
+Grafana:  
+Grafana can be installed from here: https://grafana.com/docs/grafana/latest/setup-grafana/installation/windows/  
+
+
+Postgresql:  
+Postgresql can be installed from here: https://www.postgresql.org/download/  
+
+
+npm:  
 Instructions for downloading npm can be found here: https://docs.npmjs.com/downloading-and-installing-node-js-and-npm
