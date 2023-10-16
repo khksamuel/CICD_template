@@ -3,3 +3,6 @@ node_modules/
 
 # Ignore environment file
 env.json
+
+# Ignore metrics_log
+metrics_log.txt
