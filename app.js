@@ -210,7 +210,7 @@ app.get('/insights', async (req, res) => {
                 });
             });
         }
-        log(`Inserted average duration for the last 3 * 3 days.`);
+        log(`Inserted estimated average duration.`);
     });
 
 
@@ -245,7 +245,7 @@ app.get('/insights', async (req, res) => {
                 });
             });
         }
-        log(`Inserted average time between runs for the last 3 * 3 days.`);
+        log(`Inserted estimated average time between runs.`);
     });
 
 });

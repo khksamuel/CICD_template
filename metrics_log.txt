@@ -10665,3 +10665,1409 @@
 [10/17/2023, 7:18:37 AM] Average time between runs for the last 3 days: 8 seconds.
 [10/17/2023, 7:18:37 AM] Inserted average duration for the last 3 * 3 days.
 [10/17/2023, 7:18:37 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:22:15 AM] App started at http://localhost:3080
+[10/17/2023, 7:22:15 AM] Fetching insights...
+[10/17/2023, 7:22:15 AM] Fetching alerts...
+[10/17/2023, 7:22:15 AM] Connected to PostgreSQL database
+[10/17/2023, 7:22:15 AM] Inserted 11 insights.
+[10/17/2023, 7:22:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:22:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:22:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:22:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:22:15 AM] Processing alert 1/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:22:15 AM] Processing alert 2/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:22:15 AM] Processing alert 4/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:22:15 AM] Processing alert 5/8...
+[10/17/2023, 7:22:15 AM] Processing alert 3/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:22:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:22:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:22:15 AM] Processing alert 6/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:22:15 AM] Processing alert 7/8...
+[10/17/2023, 7:22:15 AM] Processing alert 8/8...
+[10/17/2023, 7:22:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:22:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:22:45 AM] Fetching insights...
+[10/17/2023, 7:22:46 AM] Inserted 12 insights.
+[10/17/2023, 7:22:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:22:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:22:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:22:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:23:15 AM] Fetching insights...
+[10/17/2023, 7:23:15 AM] Inserted 12 insights.
+[10/17/2023, 7:23:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:23:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:23:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:23:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:23:45 AM] Fetching insights...
+[10/17/2023, 7:23:45 AM] Inserted 12 insights.
+[10/17/2023, 7:23:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:23:45 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:23:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:23:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:24:15 AM] Fetching insights...
+[10/17/2023, 7:24:15 AM] Inserted 12 insights.
+[10/17/2023, 7:24:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:24:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:24:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:24:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:24:45 AM] Fetching insights...
+[10/17/2023, 7:24:46 AM] Inserted 12 insights.
+[10/17/2023, 7:24:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:24:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:24:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:24:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:25:15 AM] Fetching alerts...
+[10/17/2023, 7:25:15 AM] Fetching insights...
+[10/17/2023, 7:25:15 AM] Processing alert 1/8...
+[10/17/2023, 7:25:15 AM] Processing alert 2/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:25:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:25:15 AM] Processing alert 3/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:25:15 AM] Processing alert 4/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:25:15 AM] Processing alert 5/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:25:15 AM] Processing alert 6/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:25:15 AM] Processing alert 7/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:25:15 AM] Processing alert 8/8...
+[10/17/2023, 7:25:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:25:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:25:16 AM] Inserted 12 insights.
+[10/17/2023, 7:25:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:25:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:25:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:25:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:25:45 AM] Fetching insights...
+[10/17/2023, 7:25:45 AM] Inserted 12 insights.
+[10/17/2023, 7:25:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:25:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:25:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:25:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:26:15 AM] Fetching insights...
+[10/17/2023, 7:26:15 AM] Inserted 12 insights.
+[10/17/2023, 7:26:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:26:15 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:26:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:26:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:26:45 AM] Fetching insights...
+[10/17/2023, 7:26:45 AM] Inserted 12 insights.
+[10/17/2023, 7:26:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:26:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:26:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:26:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:27:15 AM] Fetching insights...
+[10/17/2023, 7:27:16 AM] Inserted 12 insights.
+[10/17/2023, 7:27:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:27:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:27:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:27:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:27:45 AM] Fetching insights...
+[10/17/2023, 7:27:45 AM] Inserted 12 insights.
+[10/17/2023, 7:27:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:27:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:27:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:27:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:28:15 AM] Fetching alerts...
+[10/17/2023, 7:28:15 AM] Fetching insights...
+[10/17/2023, 7:28:15 AM] Processing alert 1/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:28:15 AM] Processing alert 2/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:28:15 AM] Processing alert 3/8...
+[10/17/2023, 7:28:15 AM] Processing alert 4/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:28:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:28:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:28:15 AM] Processing alert 5/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:28:15 AM] Processing alert 6/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:28:15 AM] Processing alert 7/8...
+[10/17/2023, 7:28:15 AM] Processing alert 8/8...
+[10/17/2023, 7:28:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:28:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:28:16 AM] Inserted 12 insights.
+[10/17/2023, 7:28:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:28:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:28:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:28:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:28:45 AM] Fetching insights...
+[10/17/2023, 7:28:46 AM] Inserted 12 insights.
+[10/17/2023, 7:28:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:28:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:28:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:28:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:29:15 AM] Fetching insights...
+[10/17/2023, 7:29:15 AM] Inserted 12 insights.
+[10/17/2023, 7:29:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:29:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:29:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:29:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:29:45 AM] Fetching insights...
+[10/17/2023, 7:29:46 AM] Inserted 12 insights.
+[10/17/2023, 7:29:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:29:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:29:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:29:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:30:15 AM] Fetching insights...
+[10/17/2023, 7:30:15 AM] Inserted 12 insights.
+[10/17/2023, 7:30:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:30:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:30:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:30:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:30:45 AM] Fetching insights...
+[10/17/2023, 7:30:46 AM] Inserted 12 insights.
+[10/17/2023, 7:30:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:30:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:30:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:30:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:31:15 AM] Fetching alerts...
+[10/17/2023, 7:31:15 AM] Fetching insights...
+[10/17/2023, 7:31:15 AM] Inserted 12 insights.
+[10/17/2023, 7:31:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:31:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:31:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:31:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:31:15 AM] Processing alert 1/8...
+[10/17/2023, 7:31:15 AM] Processing alert 2/8...
+[10/17/2023, 7:31:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:31:15 AM] Processing alert 3/8...
+[10/17/2023, 7:31:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:31:15 AM] Processing alert 4/8...
+[10/17/2023, 7:31:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:31:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:31:15 AM] Processing alert 5/8...
+[10/17/2023, 7:31:15 AM] Processing alert 7/8...
+[10/17/2023, 7:31:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:31:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:31:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:31:15 AM] Processing alert 8/8...
+[10/17/2023, 7:31:15 AM] Processing alert 6/8...
+[10/17/2023, 7:31:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:31:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:31:45 AM] Fetching insights...
+[10/17/2023, 7:31:45 AM] Inserted 12 insights.
+[10/17/2023, 7:31:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:31:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:31:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:31:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:32:15 AM] Fetching insights...
+[10/17/2023, 7:32:16 AM] Inserted 12 insights.
+[10/17/2023, 7:32:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:32:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:32:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:32:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:32:45 AM] Fetching insights...
+[10/17/2023, 7:32:45 AM] Inserted 12 insights.
+[10/17/2023, 7:32:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:32:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:32:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:32:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:33:15 AM] Fetching insights...
+[10/17/2023, 7:33:16 AM] Inserted 12 insights.
+[10/17/2023, 7:33:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:33:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:33:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:33:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:33:45 AM] Fetching insights...
+[10/17/2023, 7:33:45 AM] Inserted 12 insights.
+[10/17/2023, 7:33:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:33:45 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:33:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:33:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:34:15 AM] Fetching alerts...
+[10/17/2023, 7:34:15 AM] Fetching insights...
+[10/17/2023, 7:34:15 AM] Processing alert 1/8...
+[10/17/2023, 7:34:15 AM] Processing alert 2/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:34:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:34:15 AM] Processing alert 3/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:34:15 AM] Processing alert 4/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:34:15 AM] Processing alert 5/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:34:15 AM] Processing alert 6/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:34:15 AM] Processing alert 8/8...
+[10/17/2023, 7:34:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:34:15 AM] Processing alert 7/8...
+[10/17/2023, 7:34:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:34:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:34:16 AM] Inserted 12 insights.
+[10/17/2023, 7:34:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:34:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:34:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:34:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:34:45 AM] Fetching insights...
+[10/17/2023, 7:34:46 AM] Inserted 12 insights.
+[10/17/2023, 7:34:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:34:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:34:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:34:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:35:15 AM] Fetching insights...
+[10/17/2023, 7:35:16 AM] Inserted 12 insights.
+[10/17/2023, 7:35:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:35:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:35:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:35:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:35:45 AM] Fetching insights...
+[10/17/2023, 7:35:45 AM] Inserted 12 insights.
+[10/17/2023, 7:35:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:35:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:35:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:35:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:36:15 AM] Fetching insights...
+[10/17/2023, 7:36:15 AM] Inserted 12 insights.
+[10/17/2023, 7:36:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:36:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:36:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:36:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:36:45 AM] Fetching insights...
+[10/17/2023, 7:36:45 AM] Inserted 12 insights.
+[10/17/2023, 7:36:45 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:36:45 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:36:45 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:36:45 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:37:15 AM] Fetching alerts...
+[10/17/2023, 7:37:15 AM] Fetching insights...
+[10/17/2023, 7:37:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:37:15 AM] Processing alert 1/8...
+[10/17/2023, 7:37:15 AM] Processing alert 2/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:37:15 AM] Processing alert 3/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:37:15 AM] Processing alert 4/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:37:15 AM] Processing alert 6/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:37:15 AM] Processing alert 7/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:37:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:37:15 AM] Processing alert 5/8...
+[10/17/2023, 7:37:15 AM] Processing alert 8/8...
+[10/17/2023, 7:37:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:37:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:37:16 AM] Inserted 12 insights.
+[10/17/2023, 7:37:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:37:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:37:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:37:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:37:45 AM] Fetching insights...
+[10/17/2023, 7:37:46 AM] Inserted 12 insights.
+[10/17/2023, 7:37:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:37:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:37:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:37:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:38:15 AM] Fetching insights...
+[10/17/2023, 7:38:18 AM] Inserted 12 insights.
+[10/17/2023, 7:38:18 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:38:18 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:38:18 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:38:18 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:38:45 AM] Fetching insights...
+[10/17/2023, 7:38:46 AM] Inserted 12 insights.
+[10/17/2023, 7:38:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:38:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:38:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:38:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:39:15 AM] Fetching insights...
+[10/17/2023, 7:39:15 AM] Inserted 12 insights.
+[10/17/2023, 7:39:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:39:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:39:15 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:39:15 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:39:45 AM] Fetching insights...
+[10/17/2023, 7:39:46 AM] Inserted 12 insights.
+[10/17/2023, 7:39:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:39:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:39:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:39:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:40:15 AM] Fetching alerts...
+[10/17/2023, 7:40:15 AM] Fetching insights...
+[10/17/2023, 7:40:15 AM] Processing alert 1/8...
+[10/17/2023, 7:40:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:40:15 AM] Processing alert 3/8...
+[10/17/2023, 7:40:15 AM] Processing alert 2/8...
+[10/17/2023, 7:40:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:40:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:40:15 AM] Processing alert 4/8...
+[10/17/2023, 7:40:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:40:15 AM] Processing alert 6/8...
+[10/17/2023, 7:40:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:40:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:40:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:40:15 AM] Processing alert 7/8...
+[10/17/2023, 7:40:15 AM] Processing alert 5/8...
+[10/17/2023, 7:40:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:40:15 AM] Processing alert 8/8...
+[10/17/2023, 7:40:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:40:15 AM] Inserted 12 insights.
+[10/17/2023, 7:40:15 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:40:15 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:40:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:40:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:40:45 AM] Fetching insights...
+[10/17/2023, 7:40:46 AM] Inserted 12 insights.
+[10/17/2023, 7:40:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:40:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:40:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:40:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:41:15 AM] Fetching insights...
+[10/17/2023, 7:41:16 AM] Inserted 12 insights.
+[10/17/2023, 7:41:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:41:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:41:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:41:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:41:45 AM] Fetching insights...
+[10/17/2023, 7:41:46 AM] Inserted 12 insights.
+[10/17/2023, 7:41:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:41:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:41:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:41:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:42:15 AM] Fetching insights...
+[10/17/2023, 7:42:16 AM] Inserted 12 insights.
+[10/17/2023, 7:42:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:42:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:42:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:42:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:42:45 AM] Fetching insights...
+[10/17/2023, 7:42:46 AM] Inserted 12 insights.
+[10/17/2023, 7:42:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:42:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:42:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:42:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:43:15 AM] Fetching alerts...
+[10/17/2023, 7:43:15 AM] Fetching insights...
+[10/17/2023, 7:43:15 AM] Processing alert 1/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:43:15 AM] Processing alert 2/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:43:15 AM] Processing alert 3/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:43:15 AM] Processing alert 4/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:43:15 AM] Processing alert 5/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:43:15 AM] Processing alert 6/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:43:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:43:15 AM] Processing alert 7/8...
+[10/17/2023, 7:43:15 AM] Processing alert 8/8...
+[10/17/2023, 7:43:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:43:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:43:16 AM] Inserted 12 insights.
+[10/17/2023, 7:43:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:43:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:43:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:43:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:43:45 AM] Fetching insights...
+[10/17/2023, 7:43:46 AM] Inserted 12 insights.
+[10/17/2023, 7:43:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:43:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:43:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:43:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:44:15 AM] Fetching insights...
+[10/17/2023, 7:44:16 AM] Inserted 12 insights.
+[10/17/2023, 7:44:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:44:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:44:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:44:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:44:45 AM] Fetching insights...
+[10/17/2023, 7:44:46 AM] Inserted 12 insights.
+[10/17/2023, 7:44:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:44:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:44:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:44:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:45:15 AM] Fetching insights...
+[10/17/2023, 7:45:16 AM] Inserted 12 insights.
+[10/17/2023, 7:45:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:45:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:45:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:45:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:45:45 AM] Fetching insights...
+[10/17/2023, 7:45:46 AM] Inserted 12 insights.
+[10/17/2023, 7:45:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:45:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:45:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:45:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:46:15 AM] Fetching alerts...
+[10/17/2023, 7:46:15 AM] Fetching insights...
+[10/17/2023, 7:46:15 AM] Processing alert 1/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:46:15 AM] Processing alert 2/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:46:15 AM] Processing alert 4/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:46:15 AM] Processing alert 5/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:46:15 AM] Processing alert 6/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:46:15 AM] Processing alert 7/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:46:15 AM] Processing alert 8/8...
+[10/17/2023, 7:46:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:46:15 AM] Processing alert 3/8...
+[10/17/2023, 7:46:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:46:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:46:16 AM] Inserted 12 insights.
+[10/17/2023, 7:46:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:46:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:46:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:46:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:46:45 AM] Fetching insights...
+[10/17/2023, 7:46:46 AM] Inserted 12 insights.
+[10/17/2023, 7:46:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:46:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:46:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:46:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:47:15 AM] Fetching insights...
+[10/17/2023, 7:47:16 AM] Inserted 12 insights.
+[10/17/2023, 7:47:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:47:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:47:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:47:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:47:45 AM] Fetching insights...
+[10/17/2023, 7:47:46 AM] Inserted 12 insights.
+[10/17/2023, 7:47:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:47:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:47:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:47:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:48:15 AM] Fetching insights...
+[10/17/2023, 7:48:16 AM] Inserted 12 insights.
+[10/17/2023, 7:48:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:48:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:48:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:48:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:48:45 AM] Fetching insights...
+[10/17/2023, 7:48:46 AM] Inserted 12 insights.
+[10/17/2023, 7:48:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:48:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:48:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:48:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:49:15 AM] Fetching alerts...
+[10/17/2023, 7:49:15 AM] Fetching insights...
+[10/17/2023, 7:49:15 AM] Processing alert 1/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 1/8.
+[10/17/2023, 7:49:15 AM] finished processing alert 2/8.
+[10/17/2023, 7:49:15 AM] Processing alert 2/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 3/8.
+[10/17/2023, 7:49:15 AM] Processing alert 4/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 4/8.
+[10/17/2023, 7:49:15 AM] Processing alert 3/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 5/8.
+[10/17/2023, 7:49:15 AM] Processing alert 5/8...
+[10/17/2023, 7:49:15 AM] Processing alert 7/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 6/8.
+[10/17/2023, 7:49:15 AM] Processing alert 6/8...
+[10/17/2023, 7:49:15 AM] finished processing alert 7/8.
+[10/17/2023, 7:49:15 AM] finished processing alert 8/8.
+[10/17/2023, 7:49:15 AM] Processing alert 8/8...
+[10/17/2023, 7:49:15 AM] Inserted 8 alerts.
+[10/17/2023, 7:49:16 AM] Inserted 12 insights.
+[10/17/2023, 7:49:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:49:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:49:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:49:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:49:45 AM] Fetching insights...
+[10/17/2023, 7:49:46 AM] Inserted 12 insights.
+[10/17/2023, 7:49:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:49:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:49:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:49:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:50:15 AM] Fetching insights...
+[10/17/2023, 7:50:16 AM] Inserted 12 insights.
+[10/17/2023, 7:50:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:50:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:50:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:50:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:50:45 AM] Fetching insights...
+[10/17/2023, 7:50:46 AM] Inserted 12 insights.
+[10/17/2023, 7:50:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:50:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:50:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:50:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:51:15 AM] Fetching insights...
+[10/17/2023, 7:51:16 AM] Inserted 12 insights.
+[10/17/2023, 7:51:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:51:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:51:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:51:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:51:45 AM] Fetching insights...
+[10/17/2023, 7:51:46 AM] Inserted 12 insights.
+[10/17/2023, 7:51:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:51:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:51:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:51:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:52:15 AM] Fetching alerts...
+[10/17/2023, 7:52:15 AM] Fetching insights...
+[10/17/2023, 7:52:16 AM] Processing alert 1/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 1/8.
+[10/17/2023, 7:52:16 AM] Processing alert 2/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 2/8.
+[10/17/2023, 7:52:16 AM] Processing alert 3/8...
+[10/17/2023, 7:52:16 AM] Processing alert 4/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 4/8.
+[10/17/2023, 7:52:16 AM] Processing alert 5/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 5/8.
+[10/17/2023, 7:52:16 AM] Processing alert 6/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 3/8.
+[10/17/2023, 7:52:16 AM] finished processing alert 7/8.
+[10/17/2023, 7:52:16 AM] Processing alert 7/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 6/8.
+[10/17/2023, 7:52:16 AM] Processing alert 8/8...
+[10/17/2023, 7:52:16 AM] finished processing alert 8/8.
+[10/17/2023, 7:52:16 AM] Inserted 8 alerts.
+[10/17/2023, 7:52:16 AM] Inserted 12 insights.
+[10/17/2023, 7:52:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:52:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:52:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:52:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:52:45 AM] Fetching insights...
+[10/17/2023, 7:52:46 AM] Inserted 12 insights.
+[10/17/2023, 7:52:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:52:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:52:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:52:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:53:15 AM] Fetching insights...
+[10/17/2023, 7:53:16 AM] Inserted 12 insights.
+[10/17/2023, 7:53:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:53:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:53:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:53:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:53:45 AM] Fetching insights...
+[10/17/2023, 7:53:46 AM] Inserted 12 insights.
+[10/17/2023, 7:53:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:53:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:53:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:53:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:54:15 AM] Fetching insights...
+[10/17/2023, 7:54:16 AM] Inserted 12 insights.
+[10/17/2023, 7:54:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:54:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:54:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:54:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:54:45 AM] Fetching insights...
+[10/17/2023, 7:54:46 AM] Inserted 12 insights.
+[10/17/2023, 7:54:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:54:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:54:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:54:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:55:15 AM] Fetching alerts...
+[10/17/2023, 7:55:15 AM] Fetching insights...
+[10/17/2023, 7:55:16 AM] Processing alert 1/8...
+[10/17/2023, 7:55:16 AM] Processing alert 2/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 1/8.
+[10/17/2023, 7:55:16 AM] finished processing alert 2/8.
+[10/17/2023, 7:55:16 AM] Processing alert 3/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 3/8.
+[10/17/2023, 7:55:16 AM] Processing alert 4/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 5/8.
+[10/17/2023, 7:55:16 AM] Processing alert 5/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 4/8.
+[10/17/2023, 7:55:16 AM] Processing alert 7/8...
+[10/17/2023, 7:55:16 AM] Processing alert 6/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 7/8.
+[10/17/2023, 7:55:16 AM] finished processing alert 6/8.
+[10/17/2023, 7:55:16 AM] Processing alert 8/8...
+[10/17/2023, 7:55:16 AM] finished processing alert 8/8.
+[10/17/2023, 7:55:16 AM] Inserted 8 alerts.
+[10/17/2023, 7:55:17 AM] Inserted 12 insights.
+[10/17/2023, 7:55:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:55:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:55:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:55:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:55:45 AM] Fetching insights...
+[10/17/2023, 7:55:46 AM] Inserted 12 insights.
+[10/17/2023, 7:55:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:55:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:55:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:55:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:56:15 AM] Fetching insights...
+[10/17/2023, 7:56:16 AM] Inserted 12 insights.
+[10/17/2023, 7:56:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:56:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:56:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:56:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:56:45 AM] Fetching insights...
+[10/17/2023, 7:56:46 AM] Inserted 12 insights.
+[10/17/2023, 7:56:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:56:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:56:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:56:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:57:15 AM] Fetching insights...
+[10/17/2023, 7:57:16 AM] Inserted 12 insights.
+[10/17/2023, 7:57:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:57:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:57:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:57:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:57:45 AM] Fetching insights...
+[10/17/2023, 7:57:46 AM] Inserted 12 insights.
+[10/17/2023, 7:57:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:57:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:57:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:57:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:58:15 AM] Fetching alerts...
+[10/17/2023, 7:58:15 AM] Fetching insights...
+[10/17/2023, 7:58:16 AM] Processing alert 1/8...
+[10/17/2023, 7:58:16 AM] finished processing alert 1/8.
+[10/17/2023, 7:58:16 AM] Processing alert 2/8...
+[10/17/2023, 7:58:16 AM] finished processing alert 2/8.
+[10/17/2023, 7:58:16 AM] Processing alert 3/8...
+[10/17/2023, 7:58:16 AM] finished processing alert 3/8.
+[10/17/2023, 7:58:16 AM] Processing alert 4/8...
+[10/17/2023, 7:58:16 AM] Processing alert 5/8...
+[10/17/2023, 7:58:16 AM] finished processing alert 5/8.
+[10/17/2023, 7:58:16 AM] Processing alert 6/8...
+[10/17/2023, 7:58:16 AM] finished processing alert 4/8.
+[10/17/2023, 7:58:16 AM] finished processing alert 6/8.
+[10/17/2023, 7:58:16 AM] finished processing alert 8/8.
+[10/17/2023, 7:58:16 AM] finished processing alert 7/8.
+[10/17/2023, 7:58:16 AM] Processing alert 7/8...
+[10/17/2023, 7:58:16 AM] Processing alert 8/8...
+[10/17/2023, 7:58:16 AM] Inserted 8 alerts.
+[10/17/2023, 7:58:17 AM] Inserted 12 insights.
+[10/17/2023, 7:58:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:58:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:58:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:58:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:58:45 AM] Fetching insights...
+[10/17/2023, 7:58:47 AM] Inserted 12 insights.
+[10/17/2023, 7:58:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:58:47 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 7:58:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:58:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:59:15 AM] Fetching insights...
+[10/17/2023, 7:59:16 AM] Inserted 12 insights.
+[10/17/2023, 7:59:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:59:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:59:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:59:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 7:59:45 AM] Fetching insights...
+[10/17/2023, 7:59:46 AM] Inserted 12 insights.
+[10/17/2023, 7:59:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 7:59:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 7:59:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 7:59:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:00:15 AM] Fetching insights...
+[10/17/2023, 8:00:16 AM] Inserted 12 insights.
+[10/17/2023, 8:00:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:00:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:00:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:00:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:00:45 AM] Fetching insights...
+[10/17/2023, 8:00:46 AM] Inserted 12 insights.
+[10/17/2023, 8:00:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:00:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:00:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:00:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:01:15 AM] Fetching alerts...
+[10/17/2023, 8:01:15 AM] Fetching insights...
+[10/17/2023, 8:01:16 AM] Processing alert 1/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:01:16 AM] Processing alert 2/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:01:16 AM] Processing alert 3/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:01:16 AM] Processing alert 4/8...
+[10/17/2023, 8:01:16 AM] Processing alert 5/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:01:16 AM] Processing alert 6/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:01:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:01:16 AM] Processing alert 7/8...
+[10/17/2023, 8:01:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:01:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:01:16 AM] Processing alert 8/8...
+[10/17/2023, 8:01:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:01:16 AM] Inserted 12 insights.
+[10/17/2023, 8:01:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:01:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:01:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:01:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:01:45 AM] Fetching insights...
+[10/17/2023, 8:01:46 AM] Inserted 12 insights.
+[10/17/2023, 8:01:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:01:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:01:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:01:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:02:15 AM] Fetching insights...
+[10/17/2023, 8:02:16 AM] Inserted 12 insights.
+[10/17/2023, 8:02:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:02:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:02:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:02:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:02:45 AM] Fetching insights...
+[10/17/2023, 8:02:46 AM] Inserted 12 insights.
+[10/17/2023, 8:02:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:02:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:02:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:02:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:03:15 AM] Fetching insights...
+[10/17/2023, 8:03:16 AM] Inserted 12 insights.
+[10/17/2023, 8:03:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:03:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:03:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:03:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:03:45 AM] Fetching insights...
+[10/17/2023, 8:03:46 AM] Inserted 12 insights.
+[10/17/2023, 8:03:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:03:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:03:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:03:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:04:15 AM] Fetching alerts...
+[10/17/2023, 8:04:15 AM] Fetching insights...
+[10/17/2023, 8:04:16 AM] Processing alert 1/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:04:16 AM] Processing alert 2/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:04:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:04:16 AM] Processing alert 3/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:04:16 AM] Processing alert 4/8...
+[10/17/2023, 8:04:16 AM] Processing alert 5/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:04:16 AM] Processing alert 6/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:04:16 AM] Processing alert 7/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:04:16 AM] Processing alert 8/8...
+[10/17/2023, 8:04:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:04:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:04:17 AM] Inserted 12 insights.
+[10/17/2023, 8:04:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:04:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:04:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:04:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:04:45 AM] Fetching insights...
+[10/17/2023, 8:04:46 AM] Inserted 12 insights.
+[10/17/2023, 8:04:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:04:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:04:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:04:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:05:15 AM] Fetching insights...
+[10/17/2023, 8:05:16 AM] Inserted 12 insights.
+[10/17/2023, 8:05:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:05:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:05:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:05:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:05:45 AM] Fetching insights...
+[10/17/2023, 8:05:46 AM] Inserted 12 insights.
+[10/17/2023, 8:05:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:05:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:05:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:05:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:06:15 AM] Fetching insights...
+[10/17/2023, 8:06:16 AM] Inserted 12 insights.
+[10/17/2023, 8:06:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:06:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:06:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:06:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:06:45 AM] Fetching insights...
+[10/17/2023, 8:06:46 AM] Inserted 12 insights.
+[10/17/2023, 8:06:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:06:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:06:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:06:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:07:15 AM] Fetching alerts...
+[10/17/2023, 8:07:15 AM] Fetching insights...
+[10/17/2023, 8:07:16 AM] Processing alert 1/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:07:16 AM] Processing alert 2/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:07:16 AM] Processing alert 3/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:07:16 AM] Processing alert 4/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:07:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:07:16 AM] Processing alert 5/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:07:16 AM] Processing alert 6/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:07:16 AM] Processing alert 7/8...
+[10/17/2023, 8:07:16 AM] Processing alert 8/8...
+[10/17/2023, 8:07:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:07:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:07:16 AM] Inserted 12 insights.
+[10/17/2023, 8:07:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:07:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:07:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:07:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:07:45 AM] Fetching insights...
+[10/17/2023, 8:07:46 AM] Inserted 12 insights.
+[10/17/2023, 8:07:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:07:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:07:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:07:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:08:15 AM] Fetching insights...
+[10/17/2023, 8:08:16 AM] Inserted 12 insights.
+[10/17/2023, 8:08:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:08:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:08:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:08:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:08:45 AM] Fetching insights...
+[10/17/2023, 8:08:46 AM] Inserted 12 insights.
+[10/17/2023, 8:08:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:08:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:08:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:08:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:09:15 AM] Fetching insights...
+[10/17/2023, 8:09:16 AM] Inserted 12 insights.
+[10/17/2023, 8:09:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:09:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:09:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:09:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:09:45 AM] Fetching insights...
+[10/17/2023, 8:09:46 AM] Inserted 12 insights.
+[10/17/2023, 8:09:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:09:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:09:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:09:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:10:15 AM] Fetching alerts...
+[10/17/2023, 8:10:15 AM] Fetching insights...
+[10/17/2023, 8:10:15 AM] Processing alert 1/8...
+[10/17/2023, 8:10:15 AM] finished processing alert 1/8.
+[10/17/2023, 8:10:15 AM] Processing alert 2/8...
+[10/17/2023, 8:10:15 AM] finished processing alert 2/8.
+[10/17/2023, 8:10:15 AM] Processing alert 3/8...
+[10/17/2023, 8:10:15 AM] Processing alert 4/8...
+[10/17/2023, 8:10:15 AM] finished processing alert 3/8.
+[10/17/2023, 8:10:15 AM] finished processing alert 4/8.
+[10/17/2023, 8:10:15 AM] finished processing alert 5/8.
+[10/17/2023, 8:10:15 AM] Processing alert 5/8...
+[10/17/2023, 8:10:15 AM] finished processing alert 6/8.
+[10/17/2023, 8:10:15 AM] Processing alert 6/8...
+[10/17/2023, 8:10:15 AM] Processing alert 8/8...
+[10/17/2023, 8:10:15 AM] Processing alert 7/8...
+[10/17/2023, 8:10:15 AM] finished processing alert 7/8.
+[10/17/2023, 8:10:15 AM] finished processing alert 8/8.
+[10/17/2023, 8:10:15 AM] Inserted 8 alerts.
+[10/17/2023, 8:10:16 AM] Inserted 12 insights.
+[10/17/2023, 8:10:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:10:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:10:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:10:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:10:45 AM] Fetching insights...
+[10/17/2023, 8:10:46 AM] Inserted 12 insights.
+[10/17/2023, 8:10:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:10:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:10:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:10:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:11:15 AM] Fetching insights...
+[10/17/2023, 8:11:16 AM] Inserted 12 insights.
+[10/17/2023, 8:11:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:11:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:11:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:11:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:11:45 AM] Fetching insights...
+[10/17/2023, 8:11:46 AM] Inserted 12 insights.
+[10/17/2023, 8:11:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:11:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:11:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:11:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:12:15 AM] Fetching insights...
+[10/17/2023, 8:12:16 AM] Inserted 12 insights.
+[10/17/2023, 8:12:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:12:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:12:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:12:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:12:45 AM] Fetching insights...
+[10/17/2023, 8:12:46 AM] Inserted 12 insights.
+[10/17/2023, 8:12:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:12:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:12:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:12:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:13:15 AM] Fetching alerts...
+[10/17/2023, 8:13:15 AM] Fetching insights...
+[10/17/2023, 8:13:16 AM] Processing alert 1/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:13:16 AM] Processing alert 2/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:13:16 AM] Processing alert 3/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:13:16 AM] Processing alert 4/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:13:16 AM] Processing alert 6/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:13:16 AM] Processing alert 5/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:13:16 AM] Processing alert 8/8...
+[10/17/2023, 8:13:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:13:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:13:16 AM] Processing alert 7/8...
+[10/17/2023, 8:13:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:13:16 AM] Inserted 12 insights.
+[10/17/2023, 8:13:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:13:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:13:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:13:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:13:45 AM] Fetching insights...
+[10/17/2023, 8:13:46 AM] Inserted 12 insights.
+[10/17/2023, 8:13:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:13:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:13:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:13:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:14:15 AM] Fetching insights...
+[10/17/2023, 8:14:16 AM] Inserted 12 insights.
+[10/17/2023, 8:14:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:14:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:14:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:14:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:14:45 AM] Fetching insights...
+[10/17/2023, 8:14:46 AM] Inserted 12 insights.
+[10/17/2023, 8:14:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:14:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:14:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:14:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:15:15 AM] Fetching insights...
+[10/17/2023, 8:15:16 AM] Inserted 12 insights.
+[10/17/2023, 8:15:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:15:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:15:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:15:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:15:45 AM] Fetching insights...
+[10/17/2023, 8:15:46 AM] Inserted 12 insights.
+[10/17/2023, 8:15:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:15:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:15:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:15:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:16:15 AM] Fetching alerts...
+[10/17/2023, 8:16:15 AM] Fetching insights...
+[10/17/2023, 8:16:16 AM] Processing alert 1/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:16:16 AM] Processing alert 2/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:16:16 AM] Processing alert 3/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:16:16 AM] Processing alert 4/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:16:16 AM] Processing alert 5/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:16:16 AM] Processing alert 6/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:16:16 AM] Processing alert 7/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:16:16 AM] Processing alert 8/8...
+[10/17/2023, 8:16:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:16:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:16:16 AM] Inserted 12 insights.
+[10/17/2023, 8:16:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:16:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:16:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:16:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:16:46 AM] Fetching insights...
+[10/17/2023, 8:16:46 AM] Inserted 12 insights.
+[10/17/2023, 8:16:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:16:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:16:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:16:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:17:16 AM] Fetching insights...
+[10/17/2023, 8:17:16 AM] Inserted 12 insights.
+[10/17/2023, 8:17:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:17:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:17:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:17:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:17:46 AM] Fetching insights...
+[10/17/2023, 8:17:46 AM] Inserted 12 insights.
+[10/17/2023, 8:17:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:17:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:17:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:17:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:18:16 AM] Fetching insights...
+[10/17/2023, 8:18:16 AM] Inserted 12 insights.
+[10/17/2023, 8:18:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:18:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:18:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:18:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:18:46 AM] Fetching insights...
+[10/17/2023, 8:18:46 AM] Inserted 12 insights.
+[10/17/2023, 8:18:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:18:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:18:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:18:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:19:15 AM] Fetching alerts...
+[10/17/2023, 8:19:16 AM] Fetching insights...
+[10/17/2023, 8:19:16 AM] Processing alert 1/8...
+[10/17/2023, 8:19:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:19:16 AM] Processing alert 3/8...
+[10/17/2023, 8:19:16 AM] Processing alert 2/8...
+[10/17/2023, 8:19:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:19:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:19:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:19:16 AM] Processing alert 5/8...
+[10/17/2023, 8:19:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:19:16 AM] Processing alert 6/8...
+[10/17/2023, 8:19:16 AM] Processing alert 4/8...
+[10/17/2023, 8:19:16 AM] Processing alert 7/8...
+[10/17/2023, 8:19:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:19:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:19:16 AM] Processing alert 8/8...
+[10/17/2023, 8:19:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:19:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:19:16 AM] Inserted 12 insights.
+[10/17/2023, 8:19:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:19:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:19:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:19:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:19:46 AM] Fetching insights...
+[10/17/2023, 8:19:47 AM] Inserted 12 insights.
+[10/17/2023, 8:19:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:19:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:19:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:19:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:20:16 AM] Fetching insights...
+[10/17/2023, 8:20:16 AM] Inserted 12 insights.
+[10/17/2023, 8:20:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:20:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:20:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:20:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:20:46 AM] Fetching insights...
+[10/17/2023, 8:20:46 AM] Inserted 12 insights.
+[10/17/2023, 8:20:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:20:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:20:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:20:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:21:16 AM] Fetching insights...
+[10/17/2023, 8:21:16 AM] Inserted 12 insights.
+[10/17/2023, 8:21:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:21:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:21:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:21:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:21:46 AM] Fetching insights...
+[10/17/2023, 8:21:46 AM] Inserted 12 insights.
+[10/17/2023, 8:21:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:21:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:21:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:21:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:22:15 AM] Fetching alerts...
+[10/17/2023, 8:22:16 AM] Fetching insights...
+[10/17/2023, 8:22:16 AM] Processing alert 1/8...
+[10/17/2023, 8:22:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:22:16 AM] Processing alert 2/8...
+[10/17/2023, 8:22:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:22:16 AM] Processing alert 4/8...
+[10/17/2023, 8:22:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:22:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:22:16 AM] Processing alert 3/8...
+[10/17/2023, 8:22:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:22:16 AM] Processing alert 6/8...
+[10/17/2023, 8:22:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:22:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:22:16 AM] Processing alert 7/8...
+[10/17/2023, 8:22:16 AM] Processing alert 5/8...
+[10/17/2023, 8:22:16 AM] Processing alert 8/8...
+[10/17/2023, 8:22:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:22:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:22:16 AM] Inserted 12 insights.
+[10/17/2023, 8:22:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:22:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:22:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:22:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:22:46 AM] Fetching insights...
+[10/17/2023, 8:22:46 AM] Inserted 12 insights.
+[10/17/2023, 8:22:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:22:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:22:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:22:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:23:16 AM] Fetching insights...
+[10/17/2023, 8:23:16 AM] Inserted 12 insights.
+[10/17/2023, 8:23:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:23:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:23:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:23:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:23:46 AM] Fetching insights...
+[10/17/2023, 8:23:46 AM] Inserted 12 insights.
+[10/17/2023, 8:23:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:23:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:23:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:23:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:24:16 AM] Fetching insights...
+[10/17/2023, 8:24:16 AM] Inserted 12 insights.
+[10/17/2023, 8:24:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:24:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:24:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:24:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:24:46 AM] Fetching insights...
+[10/17/2023, 8:24:47 AM] Inserted 12 insights.
+[10/17/2023, 8:24:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:24:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:24:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:24:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:25:15 AM] Fetching alerts...
+[10/17/2023, 8:25:16 AM] Fetching insights...
+[10/17/2023, 8:25:16 AM] Processing alert 1/8...
+[10/17/2023, 8:25:16 AM] Processing alert 2/8...
+[10/17/2023, 8:25:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:25:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:25:16 AM] Processing alert 3/8...
+[10/17/2023, 8:25:16 AM] Processing alert 4/8...
+[10/17/2023, 8:25:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:25:16 AM] Processing alert 5/8...
+[10/17/2023, 8:25:16 AM] Processing alert 6/8...
+[10/17/2023, 8:25:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:25:16 AM] Processing alert 7/8...
+[10/17/2023, 8:25:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:25:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:25:16 AM] Processing alert 8/8...
+[10/17/2023, 8:25:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:25:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:25:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:25:16 AM] Inserted 12 insights.
+[10/17/2023, 8:25:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:25:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:25:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:25:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:25:46 AM] Fetching insights...
+[10/17/2023, 8:25:46 AM] Inserted 12 insights.
+[10/17/2023, 8:25:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:25:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:25:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:25:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:26:16 AM] Fetching insights...
+[10/17/2023, 8:26:16 AM] Inserted 12 insights.
+[10/17/2023, 8:26:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:26:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:26:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:26:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:26:46 AM] Fetching insights...
+[10/17/2023, 8:26:46 AM] Inserted 12 insights.
+[10/17/2023, 8:26:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:26:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:26:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:26:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:27:16 AM] Fetching insights...
+[10/17/2023, 8:27:16 AM] Inserted 12 insights.
+[10/17/2023, 8:27:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:27:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:27:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:27:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:27:46 AM] Fetching insights...
+[10/17/2023, 8:27:46 AM] Inserted 12 insights.
+[10/17/2023, 8:27:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:27:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:27:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:27:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:28:15 AM] Fetching alerts...
+[10/17/2023, 8:28:16 AM] Processing alert 1/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:28:16 AM] Processing alert 2/8...
+[10/17/2023, 8:28:16 AM] Processing alert 3/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:28:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:28:16 AM] Processing alert 4/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:28:16 AM] Processing alert 5/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:28:16 AM] Processing alert 6/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:28:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:28:16 AM] Processing alert 7/8...
+[10/17/2023, 8:28:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:28:16 AM] Processing alert 8/8...
+[10/17/2023, 8:28:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:28:16 AM] Fetching insights...
+[10/17/2023, 8:28:16 AM] Inserted 12 insights.
+[10/17/2023, 8:28:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:28:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:28:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:28:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:28:46 AM] Fetching insights...
+[10/17/2023, 8:28:47 AM] Inserted 12 insights.
+[10/17/2023, 8:28:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:28:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:28:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:28:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:29:16 AM] Fetching insights...
+[10/17/2023, 8:29:17 AM] Inserted 12 insights.
+[10/17/2023, 8:29:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:29:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:29:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:29:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:29:46 AM] Fetching insights...
+[10/17/2023, 8:29:47 AM] Inserted 12 insights.
+[10/17/2023, 8:29:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:29:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:29:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:29:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:30:16 AM] Fetching insights...
+[10/17/2023, 8:30:16 AM] Inserted 12 insights.
+[10/17/2023, 8:30:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:30:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:30:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:30:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:30:46 AM] Fetching insights...
+[10/17/2023, 8:30:47 AM] Inserted 12 insights.
+[10/17/2023, 8:30:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:30:47 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:30:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:30:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:31:15 AM] Fetching alerts...
+[10/17/2023, 8:31:16 AM] Fetching insights...
+[10/17/2023, 8:31:16 AM] Processing alert 1/8...
+[10/17/2023, 8:31:16 AM] Processing alert 2/8...
+[10/17/2023, 8:31:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:31:16 AM] Processing alert 3/8...
+[10/17/2023, 8:31:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:31:16 AM] Processing alert 4/8...
+[10/17/2023, 8:31:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:31:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:31:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:31:16 AM] Processing alert 5/8...
+[10/17/2023, 8:31:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:31:16 AM] Processing alert 6/8...
+[10/17/2023, 8:31:16 AM] Processing alert 7/8...
+[10/17/2023, 8:31:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:31:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:31:16 AM] Processing alert 8/8...
+[10/17/2023, 8:31:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:31:17 AM] Inserted 12 insights.
+[10/17/2023, 8:31:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:31:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:31:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:31:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:31:46 AM] Fetching insights...
+[10/17/2023, 8:31:46 AM] Inserted 12 insights.
+[10/17/2023, 8:31:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:31:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:31:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:31:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:32:16 AM] Fetching insights...
+[10/17/2023, 8:32:17 AM] Inserted 12 insights.
+[10/17/2023, 8:32:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:32:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:32:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:32:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:32:46 AM] Fetching insights...
+[10/17/2023, 8:32:47 AM] Inserted 12 insights.
+[10/17/2023, 8:32:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:32:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:32:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:32:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:33:16 AM] Fetching insights...
+[10/17/2023, 8:33:17 AM] Inserted 12 insights.
+[10/17/2023, 8:33:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:33:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:33:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:33:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:33:46 AM] Fetching insights...
+[10/17/2023, 8:33:46 AM] Inserted 12 insights.
+[10/17/2023, 8:33:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:33:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:33:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:33:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:34:15 AM] Fetching alerts...
+[10/17/2023, 8:34:16 AM] Processing alert 1/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:34:16 AM] Processing alert 2/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:34:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:34:16 AM] Processing alert 3/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:34:16 AM] Processing alert 5/8...
+[10/17/2023, 8:34:16 AM] Processing alert 4/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:34:16 AM] Processing alert 6/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:34:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:34:16 AM] Processing alert 7/8...
+[10/17/2023, 8:34:16 AM] Processing alert 8/8...
+[10/17/2023, 8:34:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:34:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:34:16 AM] Fetching insights...
+[10/17/2023, 8:34:16 AM] Inserted 12 insights.
+[10/17/2023, 8:34:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:34:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:34:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:34:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:34:46 AM] Fetching insights...
+[10/17/2023, 8:34:46 AM] Inserted 12 insights.
+[10/17/2023, 8:34:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:34:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:34:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:34:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:35:16 AM] Fetching insights...
+[10/17/2023, 8:35:16 AM] Inserted 12 insights.
+[10/17/2023, 8:35:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:35:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:35:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:35:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:35:46 AM] Fetching insights...
+[10/17/2023, 8:35:46 AM] Inserted 12 insights.
+[10/17/2023, 8:35:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:35:46 AM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 8:35:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:35:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:36:16 AM] Fetching insights...
+[10/17/2023, 8:36:16 AM] Inserted 12 insights.
+[10/17/2023, 8:36:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:36:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:36:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:36:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:36:46 AM] Fetching insights...
+[10/17/2023, 8:36:46 AM] Inserted 12 insights.
+[10/17/2023, 8:36:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:36:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:36:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:36:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:37:15 AM] Fetching alerts...
+[10/17/2023, 8:37:16 AM] Processing alert 1/8...
+[10/17/2023, 8:37:16 AM] finished processing alert 1/8.
+[10/17/2023, 8:37:16 AM] Processing alert 2/8...
+[10/17/2023, 8:37:16 AM] Processing alert 3/8...
+[10/17/2023, 8:37:16 AM] finished processing alert 2/8.
+[10/17/2023, 8:37:16 AM] finished processing alert 3/8.
+[10/17/2023, 8:37:16 AM] finished processing alert 5/8.
+[10/17/2023, 8:37:16 AM] Processing alert 5/8...
+[10/17/2023, 8:37:16 AM] finished processing alert 4/8.
+[10/17/2023, 8:37:16 AM] finished processing alert 6/8.
+[10/17/2023, 8:37:16 AM] Processing alert 4/8...
+[10/17/2023, 8:37:16 AM] Processing alert 7/8...
+[10/17/2023, 8:37:16 AM] Processing alert 6/8...
+[10/17/2023, 8:37:16 AM] finished processing alert 7/8.
+[10/17/2023, 8:37:16 AM] Processing alert 8/8...
+[10/17/2023, 8:37:16 AM] finished processing alert 8/8.
+[10/17/2023, 8:37:16 AM] Inserted 8 alerts.
+[10/17/2023, 8:37:16 AM] Fetching insights...
+[10/17/2023, 8:37:16 AM] Inserted 12 insights.
+[10/17/2023, 8:37:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:37:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:37:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:37:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:37:46 AM] Fetching insights...
+[10/17/2023, 8:37:47 AM] Inserted 12 insights.
+[10/17/2023, 8:37:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:37:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:37:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:37:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:38:16 AM] Fetching insights...
+[10/17/2023, 8:38:16 AM] Inserted 12 insights.
+[10/17/2023, 8:38:16 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:38:16 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:38:16 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:38:16 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:38:46 AM] Fetching insights...
+[10/17/2023, 8:38:46 AM] Inserted 12 insights.
+[10/17/2023, 8:38:46 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:38:46 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:38:46 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:38:46 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:39:16 AM] Fetching insights...
+[10/17/2023, 8:39:17 AM] Inserted 12 insights.
+[10/17/2023, 8:39:17 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:39:17 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:39:17 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:39:17 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 8:39:46 AM] Fetching insights...
+[10/17/2023, 8:39:47 AM] Inserted 12 insights.
+[10/17/2023, 8:39:47 AM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 8:39:47 AM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 8:39:47 AM] Inserted average duration for the last 3 * 3 days.
+[10/17/2023, 8:39:47 AM] Inserted average time between runs for the last 3 * 3 days.
