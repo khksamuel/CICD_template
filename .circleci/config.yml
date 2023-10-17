@@ -12,4 +12,10 @@ workflows:
   workflow:
     jobs:
       - test
-    
+      - hold:
+          type: approval
+          requires:
+            - test
+      - deploy:
+          requires:
+            - hold
