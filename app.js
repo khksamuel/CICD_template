@@ -1,8 +1,6 @@
 const express = require('express');
 const axios = require('axios');
 const { Client } = require('pg');
-const { config } = require('process');
-const { exec } = require('child_process');
 const { Octokit } = require("@octokit/core");
 const app = express();
 const fs = require('fs');
@@ -16,11 +14,19 @@ let db = new Client({
 });
 const octokit = new Octokit({ auth: configs.github_token });
 
+function log(message) {
+    // write to log file
+    fs.appendFile(configs.log_destination, `[${new Date().toLocaleString()}] ${message}\n`, function (err) {
+        if (err) throw err;
+    });
+}
+
 db.connect((err) => {
     if (err) {
+        log('Error connecting to PostgreSQL database: ' + err.stack);
         console.error('Error connecting to PostgreSQL database:', err.stack);
     } else {
-        console.log('Connected to PostgreSQL database');
+        log('Connected to PostgreSQL database');
     }
 });
 
@@ -81,8 +87,7 @@ let insight_create_sql = `CREATE TABLE IF NOT EXISTS insights (
 
 db.query(alert_create_sql, function (err, result) {
     if (err) throw err;
-}
-);
+});
 db.query(insight_create_sql, function (err, result) {
     if (err) throw err;
 });
@@ -90,13 +95,13 @@ db.query(insight_create_sql, function (err, result) {
 app.get('/', (req, res) => {
     // navigate to the grafana dashboard located at http://localhost:3000 after 5 seconds
     setTimeout(() => {
-        res.redirect('http://localhost:3000/d/d2a44ed8-32be-4d9c-8451-159816745e09/build-metrics?orgId=1');
+        res.redirect('http://localhost:3000');
     }, 5 * 1000);
 });
 
 app.get('/insights', async (req, res) => {
     try {
-        console.log('Fetching insights...');
+        log('Fetching insights...');
         let vcs = configs.vcs;
         let circleci_username = configs.circleci_username;
         let project_name = configs.project_name;
@@ -113,17 +118,28 @@ app.get('/insights', async (req, res) => {
         let items = data.items;
 
         if ((items == null) || (items.length == 0)) {
-            console.log('No insights found.');
+            log('No insights found.');
             return;
         }
 
         for (let item of items) {
+            for (itemm in items) {
+                // see which fields are too long
+                try {
+                    if (alert[item].length > 255) {
+                        log(`${item} is too long: ${alert[item]}`);
+                    }
+                } catch (error) {
+                    // log(error);
+                }
+            }
             db.query(insights_insert_sql, [item.id, item.branch, item.duration, item.created_at, item.stopped_at, item.credits_used, item.status, item.is_approval], function (err, result) {
                 if (err) throw err;
-                console.log("1 insights record inserted");
             });
         }
+        log(`Inserted ${items.length} insights.`)
     } catch (error) {
+        log('An error occurred while retrieving insights. ' + error);
         console.error(error);
         res.status(500).send('An error occurred while retrieving insights.');
     }
@@ -131,7 +147,7 @@ app.get('/insights', async (req, res) => {
 
 app.get('/alerts', async (req, res) => {
     try {
-        console.log('Fetching alerts...');
+        log('Fetching alerts...');
         const response = await octokit.request(`GET /repos/${configs.repo_owner}/${configs.repo}/code-scanning/alerts`, {
             owner: configs.repo_owner,
             repo: configs.repo,
@@ -142,53 +158,64 @@ app.get('/alerts', async (req, res) => {
 
         let alerts = response.data;
         if ((alerts == null) || (alerts.length == 0)) {
-            console.log('No alerts found.');
+            log('No alerts found.');
             return;
         }
 
-        for (let alert of alerts) {
-            if (alert.dismissed_at == undefined) {
-                alert.dismissed_at = null;
-            }
-            if (alert.dismissed_by == undefined) {
-                alert.dismissed_by = null;
-            }
-            if (alert.dismissed_reason == undefined) {
-                alert.dismissed_reason = null;
-            }
-            if (alert.dismissed_comment == undefined) {
-                alert.fixed_by = null;
-            }
-            // insert into database according to the schema
-            db.query(alerts_insert_sql, [alert.number, alert.created_at, alert.updated_at, alert.url, alert.html_url, alert.state, alert.fixed_by, alert.dismissed_by, alert.dismissed_at, alert.dismissed_reason, alert.rule, alert.tool], function (err, result) {
+        // for (let alert of alerts) {
+        for (let i = 0; i < alerts.length; i++) {
+            log(`Processing alert ${i + 1}/${alerts.length}...`);
+            const alert = alerts[i];
+            let dismissed_by = alert.dismissed_by;
+            
+            // fix optional null values
+            if (alert.dismissed_at == undefined) { alert.dismissed_at = null; }
+            if (dismissed_by == undefined) { dismissed_by = null; }
+            if (dismissed_by != null) { dismissed_by = dismissed_by.login; }
+            if (alert.dismissed_reason == undefined) { alert.dismissed_reason = null; }
+            if (alert.dismissed_comment == undefined) { alert.dismissed_comment = null; }
+
+            if (alert.fixed_by && alert.fixed_by.length > 255) { alert.fixed_by = alert.fixed_by.substring(0, 255); }
+            if (alert.dismissed_reason && alert.dismissed_reason.length > 255) { alert.dismissed_reason = alert.dismissed_reason.substring(0, 255); }
+            if (alert.dismissed_comment && alert.dismissed_comment.length > 255) { alert.dismissed_comment = alert.dismissed_comment.substring(0, 255); }
+
+            if (alert.url.length > 255) { alert.url = alert.url.substring(0, 255); } //
+            if (alert.html_url.length > 255) { alert.html_url = alert.html_url.substring(0, 255); } //
+            if (alert.state.length > 255) { alert.state = alert.state.substring(0, 255); } //
+            if (alert.rule.length > 255) { alert.rule = alert.rule.substring(0, 255); }
+            if (alert.tool.name.length > 255) { alert.tool.name = alert.tool.name.substring(0, 255); }
+            db.query(alerts_insert_sql, [alert.number, alert.created_at, alert.updated_at, alert.url, alert.html_url, alert.state, alert.fixed_by, dismissed_by, alert.dismissed_at, alert.dismissed_reason, alert.rule, alert.tool.name], function (err, result) {
                 if (err) throw err;
-                console.log("1 alert record inserted");
             });
+            log(`finished processing alert ${i + 1}/${alerts.length}.`);
         }
+        log(`Inserted ${alerts.length} alerts.`)
         
         
     } catch (error) {
+        log('An error occurred while retrieving alerts. ' + error);
         console.error(error);
         res.status(500).send('An error occurred while retrieving alerts.');
     }
 });
 
 app.listen(3080, () => {
-    console.log(`App listening at http://localhost:3080`);
+    console.log(`App started at http://localhost:3080`);
+    log(`App started at http://localhost:3080`);
     axios.get(`http://localhost:3080/insights`);
     axios.get(`http://localhost:3080/alerts`);
 
     setInterval(() => {
         axios.get(`http://localhost:3080/insights`)
             .catch(function (error) {
-                console.log(error);
+                log(error);
             });
-    }, 30 * 1000);
+    }, 30 * 1000); // 30 seconds
 
     setInterval(() => {
         axios.get(`http://localhost:3080/alerts`)
             .catch(function (error) {
-                console.log(error);
+                log(error);
             });
-    }, 3 * 60 * 1000);
+    }, 3 * 60 * 1000); // 3 minutes
 });
