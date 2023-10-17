@@ -12071,3 +12071,147 @@
 [10/17/2023, 8:39:47 AM] Average time between runs for the last 3 days: 8 seconds.
 [10/17/2023, 8:39:47 AM] Inserted average duration for the last 3 * 3 days.
 [10/17/2023, 8:39:47 AM] Inserted average time between runs for the last 3 * 3 days.
+[10/17/2023, 12:16:21 PM] App started at http://localhost:3080
+[10/17/2023, 12:16:21 PM] Fetching insights...
+[10/17/2023, 12:16:21 PM] Fetching alerts...
+[10/17/2023, 12:16:21 PM] Connected to PostgreSQL database
+[10/17/2023, 12:16:22 PM] Processing alert 1/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 1/8.
+[10/17/2023, 12:16:22 PM] Processing alert 2/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 2/8.
+[10/17/2023, 12:16:22 PM] Processing alert 3/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 3/8.
+[10/17/2023, 12:16:22 PM] Processing alert 4/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 4/8.
+[10/17/2023, 12:16:22 PM] Processing alert 5/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 5/8.
+[10/17/2023, 12:16:22 PM] Processing alert 6/8...
+[10/17/2023, 12:16:22 PM] Processing alert 7/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 6/8.
+[10/17/2023, 12:16:22 PM] finished processing alert 7/8.
+[10/17/2023, 12:16:22 PM] Processing alert 8/8...
+[10/17/2023, 12:16:22 PM] finished processing alert 8/8.
+[10/17/2023, 12:16:22 PM] Inserted 8 alerts.
+[10/17/2023, 12:16:22 PM] Inserted 13 insights.
+[10/17/2023, 12:16:22 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:16:22 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:16:23 PM] Inserted estimated average duration.
+[10/17/2023, 12:16:23 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:16:51 PM] Fetching insights...
+[10/17/2023, 12:16:51 PM] Inserted 13 insights.
+[10/17/2023, 12:16:51 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:16:51 PM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 12:16:51 PM] Inserted estimated average duration.
+[10/17/2023, 12:16:51 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:17:21 PM] Fetching insights...
+[10/17/2023, 12:17:23 PM] Inserted 13 insights.
+[10/17/2023, 12:17:23 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:17:23 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:17:23 PM] Inserted estimated average duration.
+[10/17/2023, 12:17:23 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:17:51 PM] Fetching insights...
+[10/17/2023, 12:17:53 PM] Inserted 13 insights.
+[10/17/2023, 12:17:53 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:17:53 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:17:53 PM] Inserted estimated average duration.
+[10/17/2023, 12:17:53 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:18:21 PM] Fetching insights...
+[10/17/2023, 12:18:22 PM] Inserted 13 insights.
+[10/17/2023, 12:18:22 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:18:22 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:18:22 PM] Inserted estimated average duration.
+[10/17/2023, 12:18:22 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:18:51 PM] Fetching insights...
+[10/17/2023, 12:18:52 PM] Inserted 13 insights.
+[10/17/2023, 12:18:52 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:18:52 PM] Average time between runs for the last 3 days: 0 seconds.
+[10/17/2023, 12:18:52 PM] Inserted estimated average duration.
+[10/17/2023, 12:18:52 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:19:21 PM] Fetching alerts...
+[10/17/2023, 12:19:21 PM] Fetching insights...
+[10/17/2023, 12:19:21 PM] An error occurred while retrieving alerts. HttpError: Hostname/IP does not match certificate's altnames: Host: api.github.com. is not in the cert's altnames: DNS:ezxcess.antlabs.com, DNS:www.ezxcess.antlabs.com
+[10/17/2023, 12:19:21 PM] AxiosError: Request failed with status code 500
+[10/17/2023, 12:19:22 PM] Inserted 13 insights.
+[10/17/2023, 12:19:22 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:19:22 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:19:22 PM] Inserted estimated average duration.
+[10/17/2023, 12:19:22 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:19:51 PM] Fetching insights...
+[10/17/2023, 12:19:53 PM] Inserted 13 insights.
+[10/17/2023, 12:19:53 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:19:53 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:19:53 PM] Inserted estimated average duration.
+[10/17/2023, 12:19:53 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:20:21 PM] Fetching insights...
+[10/17/2023, 12:20:21 PM] Inserted 13 insights.
+[10/17/2023, 12:20:21 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:20:21 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:20:21 PM] Inserted estimated average duration.
+[10/17/2023, 12:20:21 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:20:51 PM] Fetching insights...
+[10/17/2023, 12:20:52 PM] Inserted 13 insights.
+[10/17/2023, 12:20:52 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:20:52 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:20:52 PM] Inserted estimated average duration.
+[10/17/2023, 12:20:52 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:21:21 PM] Fetching insights...
+[10/17/2023, 12:21:22 PM] Inserted 13 insights.
+[10/17/2023, 12:21:22 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:21:22 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:21:22 PM] Inserted estimated average duration.
+[10/17/2023, 12:21:22 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:21:51 PM] Fetching insights...
+[10/17/2023, 12:21:53 PM] Inserted 13 insights.
+[10/17/2023, 12:21:53 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:21:53 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:21:53 PM] Inserted estimated average duration.
+[10/17/2023, 12:21:53 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:22:21 PM] Fetching alerts...
+[10/17/2023, 12:22:21 PM] An error occurred while retrieving alerts. HttpError: Hostname/IP does not match certificate's altnames: Host: api.github.com. is not in the cert's altnames: DNS:ezxcess.antlabs.com, DNS:www.ezxcess.antlabs.com
+[10/17/2023, 12:22:21 PM] AxiosError: Request failed with status code 500
+[10/17/2023, 12:22:21 PM] Fetching insights...
+[10/17/2023, 12:22:29 PM] Inserted 13 insights.
+[10/17/2023, 12:22:29 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:22:29 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:22:29 PM] Inserted estimated average duration.
+[10/17/2023, 12:22:29 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:28:29 PM] App started at http://localhost:3080
+[10/17/2023, 12:28:29 PM] Fetching insights...
+[10/17/2023, 12:28:29 PM] Fetching alerts...
+[10/17/2023, 12:28:29 PM] Connected to PostgreSQL database
+[10/17/2023, 12:28:30 PM] Processing alert 1/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 1/8.
+[10/17/2023, 12:28:30 PM] Processing alert 2/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 2/8.
+[10/17/2023, 12:28:30 PM] finished processing alert 3/8.
+[10/17/2023, 12:28:30 PM] Processing alert 3/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 4/8.
+[10/17/2023, 12:28:30 PM] Processing alert 4/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 5/8.
+[10/17/2023, 12:28:30 PM] Processing alert 5/8...
+[10/17/2023, 12:28:30 PM] Processing alert 6/8...
+[10/17/2023, 12:28:30 PM] Processing alert 7/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 6/8.
+[10/17/2023, 12:28:30 PM] finished processing alert 7/8.
+[10/17/2023, 12:28:30 PM] Processing alert 8/8...
+[10/17/2023, 12:28:30 PM] finished processing alert 8/8.
+[10/17/2023, 12:28:30 PM] Inserted 8 alerts.
+[10/17/2023, 12:28:31 PM] Inserted 13 insights.
+[10/17/2023, 12:28:31 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:28:31 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:28:31 PM] Inserted estimated average duration.
+[10/17/2023, 12:28:31 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:28:59 PM] Fetching insights...
+[10/17/2023, 12:28:59 PM] Inserted 13 insights.
+[10/17/2023, 12:28:59 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:28:59 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:28:59 PM] Inserted estimated average duration.
+[10/17/2023, 12:28:59 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:29:29 PM] Fetching insights...
+[10/17/2023, 12:29:29 PM] Inserted 13 insights.
+[10/17/2023, 12:29:29 PM] Average duration for the last 3 days: 24 seconds.
+[10/17/2023, 12:29:29 PM] Average time between runs for the last 3 days: 8 seconds.
+[10/17/2023, 12:29:29 PM] Inserted estimated average duration.
+[10/17/2023, 12:29:29 PM] Inserted estimated average time between runs.
+[10/17/2023, 12:29:59 PM] Fetching insights...
+[10/17/2023, 12:29:59 PM] An error occurred while retrieving insights. Error: Hostname/IP does not match certificate's altnames: Host: circleci.com. is not in the cert's altnames: DNS:ezxcess.antlabs.com, DNS:www.ezxcess.antlabs.com
