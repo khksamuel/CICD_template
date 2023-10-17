@@ -169,21 +169,21 @@ app.get('/alerts', async (req, res) => {
             let dismissed_by = alert.dismissed_by;
             
             // fix optional null values
-            if (alert.dismissed_at == undefined) { alert.dismissed_at = null; }
             if (dismissed_by == undefined) { dismissed_by = null; }
             if (dismissed_by != null) { dismissed_by = dismissed_by.login; }
+            if (alert.dismissed_at == undefined) { alert.dismissed_at = null; }
             if (alert.dismissed_reason == undefined) { alert.dismissed_reason = null; }
             if (alert.dismissed_comment == undefined) { alert.dismissed_comment = null; }
 
             if (alert.fixed_by && alert.fixed_by.length > 255) { alert.fixed_by = alert.fixed_by.substring(0, 255); }
             if (alert.dismissed_reason && alert.dismissed_reason.length > 255) { alert.dismissed_reason = alert.dismissed_reason.substring(0, 255); }
             if (alert.dismissed_comment && alert.dismissed_comment.length > 255) { alert.dismissed_comment = alert.dismissed_comment.substring(0, 255); }
-
-            if (alert.url.length > 255) { alert.url = alert.url.substring(0, 255); } //
-            if (alert.html_url.length > 255) { alert.html_url = alert.html_url.substring(0, 255); } //
-            if (alert.state.length > 255) { alert.state = alert.state.substring(0, 255); } //
+            if (alert.url.length > 255) { alert.url = alert.url.substring(0, 255); }
+            if (alert.html_url.length > 255) { alert.html_url = alert.html_url.substring(0, 255); }
+            if (alert.state.length > 255) { alert.state = alert.state.substring(0, 255); }
             if (alert.rule.length > 255) { alert.rule = alert.rule.substring(0, 255); }
             if (alert.tool.name.length > 255) { alert.tool.name = alert.tool.name.substring(0, 255); }
+
             db.query(alerts_insert_sql, [alert.number, alert.created_at, alert.updated_at, alert.url, alert.html_url, alert.state, alert.fixed_by, dismissed_by, alert.dismissed_at, alert.dismissed_reason, alert.rule, alert.tool.name], function (err, result) {
                 if (err) throw err;
             });
