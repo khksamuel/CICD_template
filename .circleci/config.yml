@@ -67,7 +67,7 @@ jobs:
       - image: "circleci/python:3.6.4"
     steps:
       - checkout
-      - run: python3 src/test_add.py
+      - run: python3 src/test_pathfinder.py
 workflows:
   version: 2
   workflow:

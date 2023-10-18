@@ -6,14 +6,14 @@ import heapq
 
 class Pathfinder:
     """implmentation of the 2D array based map data type and the pathfinding algorithms"""
-    def __init__(self) -> None:
+    def __init__(self,map_file,algorithm,heuristic) -> None:
+        self.file_name = map_file
         self.read_map()
         self.heuristics = None
-        self.algorithm = sys.argv[2]
-        if self.algorithm == "astar":
-            self.heuristics = sys.argv[3]
+        self.algorithm = algorithm
+        self.heuristics = heuristic
         self.path = self.find_path()
-        self.print_path()
+        #self.print_path()
 
     def build_map(self) -> dict:
         """build the map from the 2D array with x, y coordinates, cost, and connected nodes
@@ -57,7 +57,7 @@ class Pathfinder:
 
     def read_map(self) -> None:
         """get the map file name from command line argument and read the map data"""
-        filename = sys.argv[1]
+        filename = self.file_name
         open_file = open(filename, "r", encoding="utf-8")
         assert open_file is not None, "cannot open file: " + filename
         # read and store map in a 2D array, the map is a list of list
@@ -347,13 +347,14 @@ class Pathfinder:
             print("null")
             return
         for node in self.path:
+            print(node)
             self.map_array[node[0]][node[1]] = "*"
         for row in self.map_array:
             print(" ".join(row))
 
 if __name__ == "__main__":
     # pass
-    New_Path = Pathfinder()
+    New_Path = Pathfinder("map2.txt","astar","manhattan")
     # print the costs from (5, 5) to left and up
     # print("left:", New_Path.get_cost((5, 5), (5, 4)), "hueristic:", New_Path.heuristic((5, 4)), "cost + hueristic:", New_Path.get_cost((5, 5), (5, 4)) + New_Path.heuristic((5, 4))) # directly left
     # print("up:", New_Path.get_cost((5, 5), (4, 5)), "hueristic:", New_Path.heuristic((4, 5)), "cost + hueristic:", New_Path.get_cost((5, 5), (4, 5)) + New_Path.heuristic((4, 5))) # directly up
