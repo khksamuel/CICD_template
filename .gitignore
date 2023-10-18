@@ -6,3 +6,4 @@ env.json
 
 # Ignore metrics_log
 metrics_log.txt
+.DS_store
