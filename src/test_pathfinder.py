@@ -42,5 +42,11 @@ def test_pathfinder():
     expected_output = [(0, 0),(1, 0),(2, 0),(3, 0),(4, 0),(5, 0),(5, 1),(6, 1),(6, 2),(7, 2),(8, 2),(8, 3),(9, 3),(9, 4),(9, 5),(9, 6),(9, 7),(9, 8),(9, 9)]
     assert pathfinder.path == expected_output
     print("test 7 correct")
+
+    #test8 purposelly incorrect
+    pathfinder = Pathfinder("src/map2.txt", "astar","euclidean")
+    expected_output = [(0, 0),(1, 0),(2, 0),(3, 0),(4, 0),(5, 0),(5, 1),(6, 1),(6, 2),(7, 2),(8, 2),(8, 3),(9, 3),(9, 4),(9, 5),(9, 6),(9, 7),(9, 8),(9, 9)]
+    assert pathfinder.path == expected_output
+    print("test 8 correct")
 if __name__ == '__main__':
     test_pathfinder()
