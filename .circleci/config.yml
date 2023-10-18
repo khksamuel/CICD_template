@@ -61,10 +61,17 @@ jobs:
           command: |
             sleep 5
             curl http://localhost:8080/health-check
-            
+  test:
+    working_directory: ~/circleci-python
+    docker:
+      - image: "circleci/python:3.6.4"
+    steps:
+      - checkout
+      - run: python3 src/test_add.py
 workflows:
   version: 2
   workflow:
     jobs:
       - build:
           context: dashboard
+      - test
