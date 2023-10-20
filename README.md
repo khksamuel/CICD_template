@@ -7,6 +7,13 @@ npm,
 
 **How to Install**  
 
+Run 
+```
+bash setup.sh
+```
+
+OR install the dependencies manually 
+
 Grafana:  
 Grafana can be installed from here: https://grafana.com/docs/grafana/latest/setup-grafana/installation/windows/  
 
